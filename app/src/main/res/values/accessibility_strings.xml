@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Detects when a distracting app is opened during study time and returns you to Lenga. Essential apps like the phone, messages and settings stay available.</string>
+</resources>
